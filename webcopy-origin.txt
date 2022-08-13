@@ -1,0 +1,520 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/ryanshirley-flipdish/Elixir-Template-Default@1/dist/production.min.css
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\gh\ryanshirley-flipdish\Elixir-Template-Default@1\dist\production.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\npm\cookieconsent@3\build\cookieconsent.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.70/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\ajax\libs\jquery.blockUI\2.70\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://flipdish-cookie-consent.s3-eu-west-1.amazonaws.com/www/production/latest/fd-cc.js?rand=5
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\www\production\latest\fd-cc.js
+Content Type: application/javascript
+
+Uri: https://flipdish.imgix.net/A1q6iGT95FmUZAXC3rN6tots4Q.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\A1q6iGT95FmUZAXC3rN6tots4Q.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/CJRDNakuAq63f6CuBFKsfUw7Q.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\CJRDNakuAq63f6CuBFKsfUw7Q.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/GF4mJBNVyCVmSN8ajTKDaEfozA.png?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\GF4mJBNVyCVmSN8ajTKDaEfozA.png
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/lMhAW6Q7n0smhVQve2uuOeWGtgU.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\lMhAW6Q7n0smhVQve2uuOeWGtgU.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/mwbX6eolieq77WxscDsjkhQQJ8.png?w=1920&h=1280&fit=crop
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\mwbX6eolieq77WxscDsjkhQQJ8.png
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/OxSyR9NnTtXc8c0pGJjdPGHaFE.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\OxSyR9NnTtXc8c0pGJjdPGHaFE.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/PRDhdWnPQpju15B3NiBnO1ELHoI.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\PRDhdWnPQpju15B3NiBnO1ELHoI.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/QX86nWJ8wIAXyaKc4YDeUV9aR9k.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\QX86nWJ8wIAXyaKc4YDeUV9aR9k.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/wKgg5s4J5UL930xwunc1y3BqBng.png?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\wKgg5s4J5UL930xwunc1y3BqBng.png
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=100&fm=png32&dpr=3
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-2.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=144&w=144&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-10.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=150&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=16&w=16&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-4.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=180&w=180&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-3.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=192&w=192&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-8.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=228&w=228&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-9.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=300
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-11.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=32&w=32&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-5.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=48&w=48&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-6.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?h=62&w=62&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-7.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/X3apgZD0gw9F0R0ezkvhbXm4.jpg?width=650&fm=png32
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\X3apgZD0gw9F0R0ezkvhbXm4-1.jpg
+Content Type: image/png
+
+Uri: https://flipdish.imgix.net/YDgEFW3zW82s4mZtAIZzDyCaMaU.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\YDgEFW3zW82s4mZtAIZzDyCaMaU.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/z3gviOVkZLrIV5F9SO1apaTEQ.jpg?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\z3gviOVkZLrIV5F9SO1apaTEQ.jpg
+Content Type: image/jpeg
+
+Uri: https://flipdish.imgix.net/zA2GvuFxDHZYv6bHKLzXPI9PQ.png?w=1080&h=720
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\zA2GvuFxDHZYv6bHKLzXPI9PQ.png
+Content Type: image/jpeg
+
+Uri: https://flipdishhostedwebsites.s3.amazonaws.com/smartappbanner/dark_background_stripes.gif
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\smartappbanner\dark_background_stripes.gif
+Content Type: image/gif
+
+Uri: https://flipdishhostedwebsites.s3.amazonaws.com/smartappbanner/smart-app-banner.css
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\smartappbanner\smart-app-banner.css
+Content Type: text/css
+
+Uri: https://flipdishhostedwebsites.s3.amazonaws.com/smartappbanner/smart-app-banner.js
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\smartappbanner\smart-app-banner.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Roboto:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://maps.google.com/maps/api/js?key=AIzaSyDPmaK_ZeZzYITQHT9KpftobsXIz3r8SWo
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maps.googleapis.com/maps/api/staticmap?center=55.9709541,-3.1723206&scale=2&zoom=12&size=400x300&format=png32&scale=1&maptype=roadmap&markers=size:mid|55.9709541,-3.1723206&key=AIzaSyDPmaK_ZeZzYITQHT9KpftobsXIz3r8SWo
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\maps\api\staticmap
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/css/all.css
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.10/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\releases\v5.0.10\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://web-order.flipdish.co/client/productionwlbuild/latest/static/js/main.js
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\client\productionwlbuild\latest\static\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.yankeecandycompany.com/
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/?l=en
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\index.htm
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/css/elixircss?version=123
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\css\elixircss
+Content Type: text/css
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/AlfaSlabOne-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\AlfaSlabOne-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/Bitter-Bold.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\Bitter-Bold.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/Bitter-Italic.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\Bitter-Italic.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/Bitter-Regular.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\Bitter-Regular.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/LobsterTwo-Bold.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\LobsterTwo-Bold.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/LobsterTwo-BoldItalic.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\LobsterTwo-BoldItalic.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/LobsterTwo-Italic.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\LobsterTwo-Italic.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/fonts/LobsterTwo-Regular.otf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\fonts\LobsterTwo-Regular.otf
+Content Type: application/font-otf
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/arrow-left.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/arrow-right.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/btn-next.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\btn-next.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/btn-prev.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\btn-prev.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/button_line.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\button_line.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/cd-top-arrow.svg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\cd-top-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/column-divider.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\column-divider.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/column-divider_light_gray.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\column-divider_light_gray.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/header_decorator.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\header_decorator.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/header_decorator_dark.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\header_decorator_dark.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/header_decorator_dark_gray.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\header_decorator_dark_gray.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/header_decorator_light_gray.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\header_decorator_light_gray.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/icons.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\icons.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/loader.gif
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\loader.gif
+Content Type: image/gif
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/logo_elixir.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\logo_elixir.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/logo_intro.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\logo_intro.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/menu_left.jpg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\menu_left.jpg
+Content Type: image/jpeg
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/menu_right.jpg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\menu_right.jpg
+Content Type: image/jpeg
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/ornament.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\ornament.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/overlay.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\overlay.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/parallax/opening_hours.jpg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\parallax\opening_hours.jpg
+Content Type: image/jpeg
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/parallax/testimonials.jpg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\parallax\testimonials.jpg
+Content Type: image/jpeg
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/picker-ico.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\picker-ico.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/reservations_logo.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\reservations_logo.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/slide-separator.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\slide-separator.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/slide-separator_white.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\slide-separator_white.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/testimonials_logo.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\testimonials_logo.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/timetable-decorator.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\timetable-decorator.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/timetable-decorator2.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\timetable-decorator2.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/timetable-decorator2_light_gray.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\timetable-decorator2_light_gray.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/timetable-decorator_light_gray.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\timetable-decorator_light_gray.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/images/zoom.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\images\zoom.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/elixirfull/js/elixirjs
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\elixirfull\js\elixirjs
+Content Type: text/javascript
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/flipdish_language.js?nonce=637957915234575309
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\flipdish_language.js
+Content Type: application/x-javascript
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/flipdish_language.js?nonce=637957916210850747
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\flipdish_language-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/flipdish_language.js?nonce=637957916251730554
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\flipdish_language-2.js
+Content Type: application/x-javascript
+
+Uri: https://www.yankeecandycompany.com/Areas/AutoSites/elixircontent/flipdish_language.js?nonce=637957916264014473
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Areas\AutoSites\elixircontent\flipdish_language-3.js
+Content Type: application/x-javascript
+
+Uri: https://www.yankeecandycompany.com/contact?l=en
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\contact.html
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/Content/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Content\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.yankeecandycompany.com/Content/images/rosa/android_logo1.png
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\Content\images\rosa\android_logo1.png
+Content Type: image/png
+
+Uri: https://www.yankeecandycompany.com/cookiepolicy
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\cookiepolicy.html
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.yankeecandycompany.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.yankeecandycompany.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.yankeecandycompany.com/index?l=en
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\index.html
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/order
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\order-1.html
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/order?l=en
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\order.html
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/privacy
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\privacy.html
+Content Type: text/html
+
+Uri: https://www.yankeecandycompany.com/terms
+File Name: C:\Downloaded Web Sites\www.yankeecandycompany.com\terms.html
+Content Type: text/html
+
