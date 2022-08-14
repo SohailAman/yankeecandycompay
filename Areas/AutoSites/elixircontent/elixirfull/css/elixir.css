@@ -8048,10 +8048,19 @@ img {
         width: 100%
     }
 
-    .jt_col {
-        margin-bottom: 40px;
+    .jt_row {
         padding-left: 10px !important;
         padding-right: 15px !important;
+
+    }
+
+    .contact-form .jt_col {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .jt_col {
+        margin-bottom: 40px;
     }
 
     .section .jt_row {
